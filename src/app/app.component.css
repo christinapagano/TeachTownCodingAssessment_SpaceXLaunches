@@ -1,0 +1,13 @@
+.launches-container{
+    margin-left: -650px;
+    margin-top: 200px;
+    display: block
+}
+
+.pagetitle{
+    text-wrap: nowrap;
+}
+
+.launchestitle{
+    margin-bottom: 10px;
+}
